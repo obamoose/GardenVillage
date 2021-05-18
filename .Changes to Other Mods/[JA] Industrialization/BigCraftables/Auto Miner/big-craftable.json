@@ -1,0 +1,62 @@
+{
+    "Name": "Auto Miner",
+    "Description": "Very powerful miner which can collect metals, takes a full day to complete.",
+    "Price": 0,
+    "ProvidesLight": false,
+    "ReserveExtraIndexCount": 3,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+		{
+            "Object": "Brick",
+            "Count": 32,
+        },
+        {
+            "Object": "Chromium Bar",
+            "Count": 15,
+        },
+        {
+            "Object": 335, //Iron Bar
+            "Count": 24,
+        },
+        {
+            "Object": 709, //Hardwood
+            "Count": 12,
+        },	
+		{
+            "Object": 787, //battery pack
+            "Count": 8,
+        },	],
+        "CanPurchase": false,
+		"IsDefault": false,
+    },
+  "NameLocalization":
+    {
+        /*"es": "", //Spansih
+        "ko": "", //Korean
+        "fr": "", //French
+        "hu": "", //Hungarian
+        "it": "", //Italian
+        "ja": "", //Japanese
+        "pt": "", //Portuguese
+        "ru": "", //Russian
+        "tr": "", //Turkish*/
+        "zh": "电力钻矿机", //Chinese (Simplified)
+		"de": "Elektro-Bohrer",
+    },
+    "DescriptionLocalization":
+    {
+        /*"es": "", //Spansih
+        "ko": "", //Korean
+        "fr": "", //French
+        "hu": "", //Hungarian
+        "it": "", //Italian
+        "ja": "", //Japanese
+        "pt": "", //Portuguese
+        "ru": "", //Russian
+        "tr": "", //Turkish*/
+        "zh": "一个非常强大的采矿钻机，每次启动钻机需要消耗一个电池组，12小时后可获得地下的矿产资源。", //Chinese (Simplified)
+		"de": "Eine sehr leistungsstarke Bohrmaschine, die wertvolle Bodenschätze sammelt. Benötigt zum Betrieb 1 Batterie.", //German
+    }
+}

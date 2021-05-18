@@ -1,0 +1,38 @@
+{
+    "Name": "Solar Generator",
+    "Description": "A unique generator which requires sunlight to operate, doesn't work whiles indoors or at night.",
+    "Price": 0,
+    "ProvidesLight": false,
+    "ReserveExtraIndexCount": 5,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+		{
+            "Object": "Brick",
+            "Count": 16,
+        },
+        {
+            "Object": 338,
+            "Count": 14,
+        },
+		{
+            "Object": 336,
+            "Count": 10,
+        },
+		{
+            "Object": 72,
+            "Count": 1,
+        },	],
+        "CanPurchase": false,
+		"IsDefault": false,
+    },
+		"NameLocalization": {
+		"zh": "太阳能发电机",
+		"de": "Solar-Generator"
+		},
+    "DescriptionLocalization": {
+		"zh": "一种独特的发电机，需要阳光才能工作，无论在室内还是晚上都不能工作。",
+		"de": "Ein einzigartiger Generator, für dessen Betrieb Sonnenlicht erforderlich ist. Funktioniert weder in Innenräumen, bei Regen, Sturm oder Schnee noch in der Nacht (19:00 - 6:00)."
+		}
+}

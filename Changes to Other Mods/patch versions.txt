@@ -1,0 +1,49 @@
+The biggest disadvantage to patching other mod files is that every time that mod updates, I need to verify my patches still work.  For your benefit and mine, I am listing here the mod version that my patches were made for.
+
+"Name": "More Trees for JsonAssets",
+"Version": "1.16.10",
+"UniqueID": "ppja.moretrees",
+
+"Name": "More Food: A Collection of Recipes for JsonAssets",
+"Version": "1.9.13",
+"UniqueID": "paradigmnomad.morefood",
+
+"Name": "Mizu's Flowers for JsonAssets",
+"Version": "1.6.7",
+"UniqueID": "mizu.flowers",
+
+"Name": "Fruits and Veggies for JsonAssets",
+"Version": "2.0.14",
+"UniqueID": "ppja.fruitsandveggies",
+
+"Name": "Fresh Meat",
+"Version": "3.0.3",
+"UniqueID": "paradigmnomad.freshmeat",
+
+"Name": "Even More Recipes for JsonAssets",
+"Version": "1.5.12",
+"UniqueID": "ppja.evenmorerecipes",
+
+"Name": "Artisan Valley Machine Goods",
+"Version": "3.0.21",
+"UniqueID": "ppja.artisanvalleymachinegoods",
+
+"Name": "Bonster's Fruits and Veggies",
+"Version": "2.5.0",
+"UniqueID": "BFV.FruitVeggie",
+
+"Name": "Bonster's Trees",
+"Version": "2.5.0",
+"UniqueID": "BonsterTrees",
+
+"Name": "[JA] Winter Crops",
+"Version": "1.1.2",
+"UniqueID": "uberkwefty.wintercrops",
+
+"Name": "Baker's Life Json Asset Items",
+"Version": "1.1.3",
+"UniqueID": "Ritsune.BakersLifeJA",
+
+"Name": "Industrialization for SDV",
+"Version": "3.2.6",
+"UniqueID": "Kazuakisama.JA.Industrialization",

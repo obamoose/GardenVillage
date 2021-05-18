@@ -1,0 +1,43 @@
+{  
+    "Name": "Rock Crusher",
+    "Description": "Can break down 5 stone for a chance of ore, but will make Gravel instead, can also process any geodes for minerals or artefacts.",
+    "Price": 0,
+    "ProvidesLight": false,
+    "ReserveExtraIndexCount": 5,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 338,
+            "Count": 12,
+        },
+        {
+            "Object": 336,
+            "Count": 8,
+        },
+        {
+            "Object": "Brick",
+            "Count": 15,
+        },	
+		{
+            "Object": 787,
+            "Count": 2,
+        },	
+		{
+            "Object": 386,
+            "Count": 5,
+        },	
+	],
+        "CanPurchase": false,
+		"IsDefault": false,
+    },
+		"NameLocalization": {
+		"zh": "岩石粉碎机",
+		"de": "Steinbrecher"
+		},
+    "DescriptionLocalization": {
+		"zh": "每次投入5块石头粉碎，有概率从中获取矿石，大部分情况下石头会被粉碎成砾石。也可以每次投入1个晶球以获取蕴藏其中的矿物或古物。",
+		"de": "Kann 5x Stein ​​für eine Chance auf Erz zerbrechen. Kann jedoch scheitern und stattdessen Kies geben. Es besteht die Möglichkeit beliebige Geoden für Minerale oder Artefakte zu öffnen."
+		}
+}

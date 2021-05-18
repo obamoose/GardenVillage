@@ -1,0 +1,46 @@
+{
+    "Name": "Preservative Press",
+    "Description": "Larger more efficent perserves jar, takes 5 of the same item, and does it at twice the speed, keeps quality and sell value increased.",
+    "Price": 0,
+    "ProvidesLight": false,
+    "ReserveExtraIndexCount": 6,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+		{
+            "Object": "Brick",
+            "Count": 8,
+        },
+        {
+            "Object": "Chromium Bar",
+            "Count": 1,
+        },
+        {
+            "Object": 709,
+            "Count": 2,
+        },	
+		{
+            "Object": 335,
+            "Count": 1,
+        },	
+		{
+            "Object": 382,
+            "Count": 8,
+        },	
+		{
+            "Object": 787,
+            "Count": 1,
+        },	],
+        "CanPurchase": false,
+		"IsDefault": false,
+    },
+	"NameLocalization": {
+		"zh": "电炉",
+		"de": "Konservierungspresse"
+		},
+    "DescriptionLocalization": {
+		"zh": "以两倍的速度熔炼普通矿石和碎矿石，不需要煤来运转。",
+		"de": "Größere und effizientere Art eines Einmachgefäßes. Erzeugt Handwerksgüter mit 2-facher Geschwindigkeit und gleicher Qualität. Benötigt das 5-fache Eingangsmaterial."
+		}
+}

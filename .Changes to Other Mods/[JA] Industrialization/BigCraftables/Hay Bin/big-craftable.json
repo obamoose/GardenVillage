@@ -1,0 +1,38 @@
+{
+    "Name": "Hay Bin",
+    "Description": "A bin that turns fiber into hay.",
+    "Price": 0,
+    "ProvidesLight": false,
+    "ReserveExtraIndexCount": 2,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 335,
+            "Count": 8,
+        },
+        {
+            "Object": 86,
+            "Count": 2,
+        },
+        {
+            "Object": 709,
+            "Count": 10,
+        },
+		{
+            "Object": 787,
+            "Count": 1,
+        },	],
+        "CanPurchase": false,
+		"IsDefault": false,
+    },
+		"NameLocalization": {
+		"zh": "干草箱",
+		"de": "Heu-Behälter"
+		},
+    "DescriptionLocalization": {
+		"zh": "把纤维放在里面晾干，使其变为干草。",
+		"de": "Wenn man Fasern hineinlegt, werden sie langsam zu Heu."
+		}
+}

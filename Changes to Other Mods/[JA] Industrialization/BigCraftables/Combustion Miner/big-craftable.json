@@ -1,0 +1,62 @@
+{
+    "Name": "Combustion Miner",
+    "Description": "A weaker variant to the Auto Miner, takes coal as fuel.",
+    "Price": 0,
+    "ProvidesLight": false,
+    "ReserveExtraIndexCount": 3,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+		{
+            "Object": "Brick",
+            "Count": 8,
+        },
+        {
+            "Object": 726,
+            "Count": 2,
+        },
+        {
+            "Object": 334,
+            "Count": 1,
+        },
+        {
+            "Object": 338,
+            "Count": 1,
+        },	
+		{
+            "Object": 787,
+            "Count": 1,
+        },	],
+        "CanPurchase": false,
+		"IsDefault": false,
+    },
+  "NameLocalization":
+    {
+        /*"es": "", //Spansih
+        "ko": "", //Korean
+        "fr": "", //French
+        "hu": "", //Hungarian
+        "it": "", //Italian
+        "ja": "", //Japanese
+        "pt": "", //Portuguese
+        "ru": "", //Russian
+        "tr": "", //Turkish*/
+        "zh": "电力钻矿机", //Chinese (Simplified)
+		"de": "Verbrennungs-Bohrer",
+    },
+    "DescriptionLocalization":
+    {
+        /*"es": "", //Spansih
+        "ko": "", //Korean
+        "fr": "", //French
+        "hu": "", //Hungarian
+        "it": "", //Italian
+        "ja": "", //Japanese
+        "pt": "", //Portuguese
+        "ru": "", //Russian
+        "tr": "", //Turkish*/
+        "zh": "一个非常强大的采矿钻机，每次启动钻机需要消耗一个电池组，12小时后可获得地下的矿产资源。", //Chinese (Simplified)
+		"de": "Eine schwächere Variante der Elektro-Bohrmaschine. Fördert weniger wertvolle Bodenschätze. Benötigt zum Betrieb 1 Kohle.", //German
+    }
+}
