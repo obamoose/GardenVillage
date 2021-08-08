@@ -114,15 +114,6 @@
 }
 
 },
-{
-      "Action": "EditData",
-      "Target": "Data/Quests",
-      "Entries": {
-	  "1373002": "ItemDelivery/Refined Quartz Request/Hephaestus needs 10 refined quartz for his work./Bring Hephaestus 10 refined quartz./Hephaestus 338 10/-1/2000/-1/true/Thank you, @! These look perfect!$h#$b#I appreciate you taking the time to help me out.$0",
-	  "1373003": "ItemDelivery/Slime Request/Hephaestus needs 50 slime for his work./Bring Hephaestus 50 slime./Hephaestus 766 50/-1/1000/-1/true/Thank you, @! These look nice and juicy.$h#$b#I appreciate you taking the time to help me out.$0",
-	  "1373004": "ItemDelivery/Iridium Bar Request/Hephaestus needs 5 iridium bars for his work./Bring Hephaestus 5 iridium bars./Hephaestus 337 5/-1/25000/-1/true/Thank you, @! I knew I could count on you!$h#$b#You are a true friend.$0",
-	  }
-}
 
 ]
 }
